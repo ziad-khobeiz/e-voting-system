@@ -1,7 +1,7 @@
 # e-voting-system
 
-DataBase Managment System
+Database Managment System
 Hello there
-Abdel-Aziz Mostafa
-yousef Nasser 
-Aymen Hassan 
+\nAbdel-Aziz Mostafa
+\nYusuf Nasser 
+\nAyman Hassan 
