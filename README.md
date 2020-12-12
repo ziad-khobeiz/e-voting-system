@@ -1,7 +1,7 @@
 # e-voting-system
 
 Database Managment System
-<br/>Hello there
+<br/>Team Members:
 <br/>Abdel-Aziz Mostafa
 <br/>Steven Sameh
 <br/>Ziad Khobeiz
