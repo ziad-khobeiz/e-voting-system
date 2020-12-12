@@ -1,9 +1,9 @@
 # e-voting-system
 
 Database Managment System
-<br>
-Hello there
-<br>
-Abdel-Aziz Mostafa <br>
-Yusuf Nasser <br>
-Ayman Hassan 
+<brHello there/>
+<brAbdel-Aziz Mostafa/>
+<brSteven Sameh/>
+<brZiad Khobeiz/>
+<brYusuf Nasser/>
+<brAyman Hassan/>
